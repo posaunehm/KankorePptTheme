@@ -5,6 +5,8 @@ KankorePptTheme
 
 使用イメージはこちら。
 
+![](example.png)
+
 - http://www.slideshare.net/Posaune/ss-28901684
 
 License
